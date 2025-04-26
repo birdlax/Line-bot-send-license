@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "base-64": "^1.0.0",
+    "date-fns": "^3.6.0",
+    "firebase-functions": "^4.7.0",
+    "pdfmake": "^0.2.10",
+    "roboto-font": "^0.1.0"
+  }
+}
