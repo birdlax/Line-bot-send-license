@@ -2,7 +2,7 @@ async function replyToLineMessage(replyToken) {
     const lineConfig = {
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer HX8ffSxmj2tDZ0HyYHLHzaGPAgtH5C2zJRHL9IzZ+U0I9SZMZrI/SoFfvgQ0uNZGl60WEgN/RfZNEnWHMj6Guw2DCq61dnDdvQZMYnHenLV8K9/u/dsHu5L4Bq3fPrt9xz2+BLSK7U/G73glHq9z0wdB04t89/1O/w1cDnyilFU='
+        'Authorization': 'Bearer xxxxx'
       }
     };
   
